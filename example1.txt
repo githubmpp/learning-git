@@ -1,0 +1,1 @@
+This is a new file named example1.txt that is going to be used as example to lear git.
